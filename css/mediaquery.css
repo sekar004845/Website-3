@@ -1,0 +1,306 @@
+/*  */
+/*  */
+/* MEDIA QUERY */
+/*  */
+/*  */
+/*  */
+/*  */
+@media(min-width:320px){
+.row-1{
+    display: none;
+}.row-2{
+    display: none;
+}
+.nav-icon{
+    display: block;
+    text-align: center;
+}
+.col-7-para h1 {
+font-size: 29px;
+}
+.col-7 {
+padding: 35px;
+}
+.col-7-button{
+display: flex;
+flex-wrap: wrap;
+}
+.col-7-button-1{
+height: 45px;
+width: 200px;
+}
+.section-3{
+height: 60vh;
+background-position: center;
+}
+.row-4{
+display: flex;
+flex-wrap: wrap;
+}
+.col-8{
+width: 100%;
+height: 80vh;
+}
+.col-8-2{
+width: 100%;
+}
+.col-10-para {
+  width: 100%;
+}
+.col-10-para-2 {
+    font-size: 15px;
+}
+.col-10-icon-1{
+    font-size: 28px;
+}
+.row-6{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-11{
+    width: 100%;
+    height: 65vh;
+}
+.col-12{
+    width: 100%;
+}
+.row-7{
+    display: flex;
+    flex-wrap:wrap;
+}
+.col-13-first{
+    width: 100%;
+}
+.row-8{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-14{
+    width: 100%;
+}
+.row-9{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-15{
+    width: 100%;
+}
+.row-10{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-16{
+    width: 100%;
+}
+.col-9-para h2{
+    font-size: 45px;
+}
+.row-11{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-17{
+    width: 100%;
+    margin-bottom: 50px;
+}
+}
+/*  */
+/*  */
+/*690px*/
+/*  */
+/*  */
+/*  */
+/*  */
+@media(min-width:690px){
+.row-1{
+    display: none;
+}.row-2{
+    display:none;
+}
+.nav-icon{
+    display: block;
+}
+.col-7-para h1 {
+font-size: 60px;
+}
+.col-7 {
+padding: 60px;
+}
+.col-7-button{
+display: flex;
+}
+.col-7-button-1{
+height: 45px;
+width: 170px;
+}
+.section-3{
+height: 85vh;
+background-position: center;
+}
+.row-4{
+display: flex;
+}
+.col-8{
+width: 50%;
+height: auto;
+}
+.col-8-2{
+width: 50%;
+}
+.col-10-para {
+width: 50%;
+}
+.col-10-para-2 {
+    font-size: 11px;
+}
+.col-10-icon-1{
+    font-size: 20px;
+}
+.row-6{
+    display: flex;
+}
+.col-11{
+    width: 50%;
+    height: auto;
+    background-position: center;
+}
+.col-12{
+    width: 50%;
+}
+.row-7{
+    display: flex;
+    flex-wrap:wrap;
+}
+.col-13-first{
+    width: 50%;
+}
+.row-8{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-14{
+    width: 45%;
+}
+.row-9{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-15{
+    width: 45%;
+}
+.row-10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.col-16{
+    width: 45%;
+}
+.col-9-para h2{
+    font-size: 55px;
+}
+.row-11{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-17{
+    width: 50%;
+    margin-bottom: 50px;
+}
+}
+/*  */
+/*  */
+/*1020px*/
+/*  */
+/*  */
+/*  */
+/*  */
+@media(min-width:1020px){
+.row-1{
+    display: flex;
+}.row-2{
+    display: flex;
+}
+.nav-icon{
+    display: none;
+}
+.col-7-para h1 {
+font-size: 60px;
+}
+.col-7 {
+padding: 100px;
+}
+.col-7-button{
+display: flex;
+}
+.col-7-button-1{
+height: 45px;
+width: 170px;
+}
+.section-3{
+height: 100vh;
+}
+.row-4{
+display: flex;
+}
+.col-8{
+width: 50%;
+height: auto;
+}
+.col-8-2{
+width: 50%;
+}
+.col-10-para {
+    width: 50%;
+}
+.col-10-para-2 {
+    font-size: 16px;
+}
+.col-10-icon-1{
+    font-size: 30px;
+}
+.row-6{
+    display: flex;
+}
+.col-11{
+    width: 50%;
+    height:auto ;
+}
+.col-12{
+    width: 50%;
+}
+.row-7{
+    display: flex;
+
+}
+.col-13-first{
+    width: 25%;
+}
+.row-8{
+    display: flex;
+}
+.col-14{
+    width: 22%;
+}
+.row-9{
+    display: flex;
+}
+.col-15{
+    width: 22%;
+}
+.row-10{
+    display: flex;
+}
+.col-16{
+    width: 30%;
+}
+.col-9-para h2{
+    font-size: 60px;
+}
+.row-11{
+    display: flex;
+}
+.col-17{
+    width: 30%;
+}
+}
